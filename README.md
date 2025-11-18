@@ -102,14 +102,14 @@ Prioritize cross-disciplinary research that links enzyme design, process enginee
 ## CONCLUSION 
 From demonstration of concept to effective implementation across biofuels, enzymes, and bioplastics, industrial biotechnology is advancing. The most disruptive advancements combine biological innovation (ML-driven enzyme and strain engineering) with smart industrial collaborations that offer inexpensive feedstocks (industrial off-gases, residues). Nonetheless, if materials are sold as "biodegradable" or "safe," commercial success will need equal consideration of lifecycle sustainability, end-of-life solutions, regulatory clarity, and public transparency. Industrial biotechnology has the potential to provide substantial climate and circular economy advantages when these components are in harmony. 
 ### REFERENCE
-•  Landwehr GM et al., “Accelerated enzyme engineering by machine-learning …”, Nature Communications (2025). Nature
-•  IEA / bioenergy report, “Development and Deployment of advanced biofuel demonstration facilities” (2024). ieabioenergy.com
-•  LanzaTech / ArcelorMittal press release — Steelanol ethanol production milestone (2024). LanzaTech
-•  European Bioplastics — “Bioplastics Market Development Update 2024.” european-bioplastics.org
-•  Sharma N. et al., “Microbial Enzymes in Industrial Biotechnology” (2025), PubMed Central. PubMed Central
-•  Mao S. et al., “Enzyme Engineering: Performance Optimization …” (2024), PMC review. PubMed Central
-•  Recent reviews on bioplastics and biodegradability (2024–2025). MDPI+1
-•  Market & news: Reuters / C&EN reporting on biofuels and renewable diesel utilization (2024–2025). Reuters+1
+-  Landwehr GM et al., “Accelerated enzyme engineering by machine-learning …”, Nature Communications (2025). Nature
+-  IEA / bioenergy report, “Development and Deployment of advanced biofuel demonstration facilities” (2024). ieabioenergy.com
+-  LanzaTech / ArcelorMittal press release — Steelanol ethanol production milestone (2024). LanzaTech
+-  European Bioplastics — “Bioplastics Market Development Update 2024.” european-bioplastics.org
+-  Sharma N. et al., “Microbial Enzymes in Industrial Biotechnology” (2025), PubMed Central. PubMed Central
+-  Mao S. et al., “Enzyme Engineering: Performance Optimization …” (2024), PMC review. PubMed Central
+-  Recent reviews on bioplastics and biodegradability (2024–2025). MDPI+1
+-  Market & news: Reuters / C&EN reporting on biofuels and renewable diesel utilization (2024–2025). Reuters+1
 
 
 
