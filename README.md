@@ -1,2 +1,3 @@
-# CodeApha-TASK-1
- CodeApha  INTERSHIP
+# RECENT ADVANCEMENT IN INDUSTRIAL BITECHNOLOGY ( Biofuel, Enzyme, Bioplastic)
+### INTRODUCTION
+With significant commercial and environmental ramifications, industrial biotechnology is still moving quickly through three related sectors: biofuels, industrial enzymes, and bioplastics. In the past 3–5 years, advancements in several fields have moved from laboratory experiments to larger-scale implementation, including waste- and gas-to-fuel pathways for advanced biofuels, machine learning and ultra-high-throughput platforms for enzyme discovery and optimization, and diversification and scaling of bioplastic chemistries (PLA, PHA, PBAT, and combinations) in conjunction with increased attention to biodegradability and health effects. This article concludes with a forecast for the upcoming 3–7 years, after summarizing recent technical advancements, commercial milestones, policy drivers, and continuing technological and economic challenges. 
