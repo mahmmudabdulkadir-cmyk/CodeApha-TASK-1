@@ -30,7 +30,29 @@ High-throughput and cell-free screening: Combining cell-free expression and func
 Nature 
 Advancements in immobilized and directed evolution: Although traditional directed evolution is still at the core, it is now more frequently paired with rational design, stabilizing mutations, and better immobilization chemistries in order to produce recyclable, high-performance catalysts for ongoing industrial operations. Enzyme immobilization has improved their ability to withstand process parameters, making continuous reactors with lower enzyme usage possible. 
 PubMed Central 
++1.
+### Areas affected by industry 
+Biofuel manufacturing: In lignocellulosic hydrolysis, a continuous economic issue for cellulosic ethanol and sugar streams for fermentation, stronger cellulases and hemicellulases reduce enzyme costs. 
+ScienceDirect 
+Textiles and detergents: In washing, enzymes designed for low temperature activity and less proteolysis reduce energy consumption while allowing for novel textile processing methods. 
+Chemical biocatalysis: Tailored enzymes functioning in non-aqueous environments facilitate specific transformations for specialty chemicals, lowering energy intensity and harmful reagents. 
+2.3 Obstacles and Research and Development Plan 
+Predictive gaps: Even though ML models are getting better, there is still a need for more comprehensive data in order to generalize between enzyme families and forecast long-term stability under industrial stresses. 
+Science Direct 
+Scaling up biocatalytic processes: Issues include mass transfer, fouling, and operational life, which means that enzyme activity at the laboratory level may not always be replicated. 
+The engineered enzyme supply chain: practical concerns include the speedy expansion of production capacity and regulatory clarity for novel engineered proteins.
+### Bioplastics - material innovation, scale, and oversight 
+#### Progress in materials and production 
+Bioplastics may be biobased, biodegradable, or both. Recent developments are as follows: 
+Chemistry diversification: In addition to polylactic acid (PLA), polyhydroxyalkanoates (PHAs), polybutylene succinate (PBS), and mixtures (e.g., PBAT/PLA composites), copolymerization and nanocomposite reinforcement have resulted in enhancements in material properties. These developments overcome the thermal and brittleness restrictions of prior biopolymers. 
+ScienceDirect 
 +1 
+Microbial manufacturing scale-up for PHAs: The biotechnological routes for PHAs have seen an improvement in yield and a reduction in expenses as a result of metabolic engineering, feedstock flexibility (waste oils, lignocellulosic hydrolysates), and continuous fermentation techniques. There are plans and implementation going on all over the world to increase market capacity. 
+european-bioplastics.org 
+Lifecycle improvements: Firms and scientists are integrating circularity by creating polymers that may be chemically recycled, composted under regulated circumstances, or enzymatically depolymerized to recover monomers. 
+
+
+
 
 
 
